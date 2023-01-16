@@ -1,0 +1,12 @@
+.Home {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 50vw;
+  height: 50vh;
+  border-radius: 20px;
+  box-shadow: 0 0 15px 5px rgb(1, 75, 104);
+  background: rgb(196, 239, 255);
+  position: relative;
+}
